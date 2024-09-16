@@ -9,4 +9,4 @@ fn is_even(num : i32)-> bool{
     }else {
         return  false;
     }
-}
+}   
