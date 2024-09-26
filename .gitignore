@@ -1,0 +1,7 @@
+# Ignore all the extra files
+*.target/debug/
+*.lock
+*.toml
+*.exe
+*.json
+*.rmeta
