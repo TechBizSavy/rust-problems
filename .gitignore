@@ -5,3 +5,7 @@
 *.exe
 *.json
 *.rmeta
+
+# Added by cargo
+
+/target
